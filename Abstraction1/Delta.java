@@ -4,7 +4,7 @@ public class Delta extends Charlie
 {
 	public void Delta1()
 	{
-		System.out.println("Print Delta 1");
+		System.out.println("Delta-1 is printed here");
 	}
 	
 	
